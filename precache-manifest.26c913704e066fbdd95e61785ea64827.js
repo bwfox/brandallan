@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/brandallan/static/css/main.6097e900.chunk.css"
   },
   {
-    "revision": "c1a72e4e5b07d5a9e59bc4644f9f599b",
+    "revision": "a1a55e0e9601c571347a2d1e7a83299e",
     "url": "/brandallan/index.html"
   }
 ];
