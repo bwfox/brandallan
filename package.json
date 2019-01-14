@@ -2,7 +2,7 @@
   "name": "brandallan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "www.brandallan.com",
+  "homepage": "www.brandallan.github.io/brandallan/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
