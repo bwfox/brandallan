@@ -1,14 +1,14 @@
 {
-  "main.css": "www.brandallan.com/static/css/main.6097e900.chunk.css",
-  "main.js": "www.brandallan.com/static/js/main.f0276d47.chunk.js",
-  "main.js.map": "www.brandallan.com/static/js/main.f0276d47.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "www.brandallan.com/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "www.brandallan.com/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "www.brandallan.com/static/js/runtime~main.c8cf6314.js",
-  "runtime~main.js.map": "www.brandallan.com/static/js/runtime~main.c8cf6314.js.map",
-  "static/media/logo.svg": "www.brandallan.com/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6097e900.chunk.css.map": "www.brandallan.com/static/css/main.6097e900.chunk.css.map",
-  "index.html": "www.brandallan.com/index.html",
-  "precache-manifest.a24c71c51839ec235ea1942c0fa6d79f.js": "www.brandallan.com/precache-manifest.a24c71c51839ec235ea1942c0fa6d79f.js",
-  "service-worker.js": "www.brandallan.com/service-worker.js"
+  "main.css": "www.brandallan.github.io/brandallan/static/css/main.6097e900.chunk.css",
+  "main.js": "www.brandallan.github.io/brandallan/static/js/main.6fd6a193.chunk.js",
+  "main.js.map": "www.brandallan.github.io/brandallan/static/js/main.6fd6a193.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "www.brandallan.github.io/brandallan/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "www.brandallan.github.io/brandallan/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "www.brandallan.github.io/brandallan/static/js/runtime~main.5ac321ab.js",
+  "runtime~main.js.map": "www.brandallan.github.io/brandallan/static/js/runtime~main.5ac321ab.js.map",
+  "static/media/logo.svg": "www.brandallan.github.io/brandallan/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6097e900.chunk.css.map": "www.brandallan.github.io/brandallan/static/css/main.6097e900.chunk.css.map",
+  "index.html": "www.brandallan.github.io/brandallan/index.html",
+  "precache-manifest.3b95bba7b44241fa322bd523a3d1b463.js": "www.brandallan.github.io/brandallan/precache-manifest.3b95bba7b44241fa322bd523a3d1b463.js",
+  "service-worker.js": "www.brandallan.github.io/brandallan/service-worker.js"
 }
