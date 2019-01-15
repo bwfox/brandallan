@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "www.brandallan.github.io/brandallan/precache-manifest.3b95bba7b44241fa322bd523a3d1b463.js"
+  "/brandallan/precache-manifest.f8da5866f6ab3a47468e9389b09407be.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("www.brandallan.github.io/brandallan/index.html", {
+workbox.routing.registerNavigationRoute("/brandallan/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

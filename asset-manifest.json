@@ -1,14 +1,14 @@
 {
-  "main.css": "www.brandallan.github.io/brandallan/static/css/main.6097e900.chunk.css",
-  "main.js": "www.brandallan.github.io/brandallan/static/js/main.6fd6a193.chunk.js",
-  "main.js.map": "www.brandallan.github.io/brandallan/static/js/main.6fd6a193.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "www.brandallan.github.io/brandallan/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "www.brandallan.github.io/brandallan/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "www.brandallan.github.io/brandallan/static/js/runtime~main.5ac321ab.js",
-  "runtime~main.js.map": "www.brandallan.github.io/brandallan/static/js/runtime~main.5ac321ab.js.map",
-  "static/media/logo.svg": "www.brandallan.github.io/brandallan/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6097e900.chunk.css.map": "www.brandallan.github.io/brandallan/static/css/main.6097e900.chunk.css.map",
-  "index.html": "www.brandallan.github.io/brandallan/index.html",
-  "precache-manifest.3b95bba7b44241fa322bd523a3d1b463.js": "www.brandallan.github.io/brandallan/precache-manifest.3b95bba7b44241fa322bd523a3d1b463.js",
-  "service-worker.js": "www.brandallan.github.io/brandallan/service-worker.js"
+  "main.css": "/brandallan/static/css/main.6097e900.chunk.css",
+  "main.js": "/brandallan/static/js/main.46545f8b.chunk.js",
+  "main.js.map": "/brandallan/static/js/main.46545f8b.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/brandallan/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/brandallan/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/brandallan/static/js/runtime~main.ac5be962.js",
+  "runtime~main.js.map": "/brandallan/static/js/runtime~main.ac5be962.js.map",
+  "static/media/logo.svg": "/brandallan/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6097e900.chunk.css.map": "/brandallan/static/css/main.6097e900.chunk.css.map",
+  "index.html": "/brandallan/index.html",
+  "precache-manifest.f8da5866f6ab3a47468e9389b09407be.js": "/brandallan/precache-manifest.f8da5866f6ab3a47468e9389b09407be.js",
+  "service-worker.js": "/brandallan/service-worker.js"
 }
