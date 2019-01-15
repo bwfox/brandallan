@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/brandallan/static/js/runtime~main.ac5be962.js"
   },
   {
-    "revision": "20982d83a61593a96cab",
-    "url": "/brandallan/static/js/main.20982d83.chunk.js"
+    "revision": "39a89538626e606a7881",
+    "url": "/brandallan/static/js/main.39a89538.chunk.js"
   },
   {
     "revision": "6645f0eb7d1984e10fd6",
     "url": "/brandallan/static/js/1.6645f0eb.chunk.js"
   },
   {
-    "revision": "20982d83a61593a96cab",
+    "revision": "39a89538626e606a7881",
     "url": "/brandallan/static/css/main.52cb3249.chunk.css"
   },
   {
-    "revision": "8a0b4fa8d41d8ff50bb22962cc8d1ccb",
+    "revision": "65ed72c0f68441ba136043a36c1d5b02",
     "url": "/brandallan/index.html"
   }
 ];
