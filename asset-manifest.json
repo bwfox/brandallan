@@ -1,11 +1,13 @@
 {
-  "main.js": "/brandallan/static/js/main.ff2e2308.chunk.js",
-  "main.js.map": "/brandallan/static/js/main.ff2e2308.chunk.js.map",
-  "static/js/1.674a49cb.chunk.js": "/brandallan/static/js/1.674a49cb.chunk.js",
-  "static/js/1.674a49cb.chunk.js.map": "/brandallan/static/js/1.674a49cb.chunk.js.map",
+  "main.css": "/brandallan/static/css/main.88003847.chunk.css",
+  "main.js": "/brandallan/static/js/main.b528bf3e.chunk.js",
+  "main.js.map": "/brandallan/static/js/main.b528bf3e.chunk.js.map",
+  "static/js/1.6645f0eb.chunk.js": "/brandallan/static/js/1.6645f0eb.chunk.js",
+  "static/js/1.6645f0eb.chunk.js.map": "/brandallan/static/js/1.6645f0eb.chunk.js.map",
   "runtime~main.js": "/brandallan/static/js/runtime~main.ac5be962.js",
   "runtime~main.js.map": "/brandallan/static/js/runtime~main.ac5be962.js.map",
+  "static/css/main.88003847.chunk.css.map": "/brandallan/static/css/main.88003847.chunk.css.map",
   "index.html": "/brandallan/index.html",
-  "precache-manifest.9b0a5755ba27fe324923b2fd9fc041f5.js": "/brandallan/precache-manifest.9b0a5755ba27fe324923b2fd9fc041f5.js",
+  "precache-manifest.41fa4adccc494a76e8e72fae5698e476.js": "/brandallan/precache-manifest.41fa4adccc494a76e8e72fae5698e476.js",
   "service-worker.js": "/brandallan/service-worker.js"
 }
