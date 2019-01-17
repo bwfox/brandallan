@@ -1,13 +1,14 @@
 {
-  "main.css": "/brandallan/static/css/main.52cb3249.chunk.css",
-  "main.js": "/brandallan/static/js/main.c3abdae7.chunk.js",
-  "main.js.map": "/brandallan/static/js/main.c3abdae7.chunk.js.map",
-  "static/js/1.bb44bf1b.chunk.js": "/brandallan/static/js/1.bb44bf1b.chunk.js",
-  "static/js/1.bb44bf1b.chunk.js.map": "/brandallan/static/js/1.bb44bf1b.chunk.js.map",
+  "main.css": "/brandallan/static/css/main.8bf610c2.chunk.css",
+  "main.js": "/brandallan/static/js/main.d880bab7.chunk.js",
+  "main.js.map": "/brandallan/static/js/main.d880bab7.chunk.js.map",
+  "static/js/1.bd5369d0.chunk.js": "/brandallan/static/js/1.bd5369d0.chunk.js",
+  "static/js/1.bd5369d0.chunk.js.map": "/brandallan/static/js/1.bd5369d0.chunk.js.map",
   "runtime~main.js": "/brandallan/static/js/runtime~main.ac5be962.js",
   "runtime~main.js.map": "/brandallan/static/js/runtime~main.ac5be962.js.map",
-  "static/css/main.52cb3249.chunk.css.map": "/brandallan/static/css/main.52cb3249.chunk.css.map",
+  "static/media/corn.jpg": "/brandallan/static/media/corn.952542d7.jpg",
+  "static/css/main.8bf610c2.chunk.css.map": "/brandallan/static/css/main.8bf610c2.chunk.css.map",
   "index.html": "/brandallan/index.html",
-  "precache-manifest.a86f36ee5ce5ca538adc36c5aa6b814d.js": "/brandallan/precache-manifest.a86f36ee5ce5ca538adc36c5aa6b814d.js",
+  "precache-manifest.f89e02940871433d627ff0ca0d8a0759.js": "/brandallan/precache-manifest.f89e02940871433d627ff0ca0d8a0759.js",
   "service-worker.js": "/brandallan/service-worker.js"
 }
